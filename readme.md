@@ -21,6 +21,10 @@ It will get the latest updates from the json files and then rename the `.zip` fi
 <img src="https://github.com/bukinoshita/terminal-sketch/blob/master/sketch/previews/preview.png" width="828"/>
 
 
+## Related
+
+[sketch-json](https://github.com/bukinoshita/sketch-json) — Transform sketch files to json and json to sketch files
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
