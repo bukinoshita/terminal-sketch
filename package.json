@@ -12,5 +12,7 @@
   "dependencies": {
     "sketch-json": "^0.0.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "husky": "^0.14.3"
+  }
 }
