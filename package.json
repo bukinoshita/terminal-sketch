@@ -1,0 +1,16 @@
+{
+  "name": "terminal-sketch",
+  "version": "1.0.0",
+  "description": "Terminal Sketch",
+  "main": "index.js",
+  "repository": "git@github.com:bukinoshita/terminal-sketch.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "precommit": "node index"
+  },
+  "dependencies": {
+    "sketch-json": "^0.0.1"
+  },
+  "devDependencies": {}
+}
