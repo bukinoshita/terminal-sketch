@@ -7,7 +7,9 @@
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "precommit": "node index"
+    "push": "node push",
+    "pull": "node pull",
+    "precommit": "node push"
   },
   "dependencies": {
     "sketch-json": "^0.0.1"
