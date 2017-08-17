@@ -12,6 +12,5 @@
   },
   "dependencies": {
     "sketch-json-cli": "^0.0.1"
-  },
-  "devDependencies": {}
+  }
 }

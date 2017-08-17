@@ -23,7 +23,8 @@ It will get the latest updates from the json files and then rename the `.zip` fi
 
 ## Related
 
-[sketch-json](https://github.com/bukinoshita/sketch-json) — Transform sketch files to json and json to sketch files
+- [sketch-json](https://github.com/bukinoshita/sketch-json) — Transform sketch files to json and json to sketch files
+- [smiley-sketch](https://github.com/bukinoshita/smiley-sketch) — Smiley sketch
 
 ## License
 
