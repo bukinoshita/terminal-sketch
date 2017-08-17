@@ -7,14 +7,11 @@
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "push": "node push",
-    "pull": "node pull",
-    "precommit": "node push"
+    "push": "./node_modules/.bin/sketch-json",
+    "pull": "./node_modules/.bin/sketch-json --json"
   },
   "dependencies": {
-    "sketch-json": "^0.0.1"
+    "sketch-json-cli": "^0.0.1"
   },
-  "devDependencies": {
-    "husky": "^0.14.3"
-  }
+  "devDependencies": {}
 }
