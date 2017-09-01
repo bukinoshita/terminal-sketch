@@ -11,6 +11,6 @@
     "pull": "./node_modules/.bin/sketch-json --json"
   },
   "dependencies": {
-    "sketch-json-cli": "^0.0.1"
+    "sketch-json-cli": "^0.0.2"
   }
 }
